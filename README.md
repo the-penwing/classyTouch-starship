@@ -1,6 +1,6 @@
 # Starship Propmt - classyTouch
 
-Starship propmt inspired by a bash prompt of the same name
+[Starship](https://starship.rs/) propmt inspired by a bash prompt of the same name
 ![classyTouch](classyTouch.png)
 
 ## Installation
