@@ -1,3 +1,9 @@
+# THIS REPO IS NO LONGER MAINTAINED
+
+I am still actively working on this prompt.
+However it is only getting updated in my [dotfiles](https://github.com/the-penwing/nixos-config).
+Managing 2 repos for the same file just isnt worth it for me anymore.
+
 # Gruvbox Clean Starship Prompt
 
 [Starship](https://starship.rs/) prompt inspired by a oh-my-zsh theme called classyTouch
